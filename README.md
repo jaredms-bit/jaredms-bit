@@ -1,39 +1,92 @@
-Material de Clase – Inteligencia Artificial
-El objetivo es documentar mi aprendizaje y proporcionar una guía clara sobre cada tema y el proceso paso a paso del desarrollo.
-Contenido del repositorio
-1. Ejemplos en Google Colab
-Se encuentran los notebooks utilizados en clase, cada uno con:
+🤖 Material de Clase – Inteligencia Artificial
 
-Código completo
-Explicación línea por línea
-Notas importantes para entender el funcionamiento sobre redes neuronales, Perceptrón Multicapa (MLP), Perceptron OR y NOT, Neuronal Multicapa XOR, Flor Iris
+Este repositorio tiene como objetivo documentar mi aprendizaje, organizar mis avances y servir como una guía clara de cada tema visto en la materia de Inteligencia Artificial. Incluye códigos, explicaciones detalladas, análisis y tareas realizadas durante el curso.
 
-2. Explicaciones y análisis
-Incluye archivos donde se desarrolla paso a paso:
+📘 1. Ejemplos en Google Colab
 
-Conceptos vistos en clase
-Resolución de ejercicios
-Notas personales para estudio De cada tema:
-Redes Neuronales Convolucionales (CNN) a) Trabajos de CNN
-Clasificación_de_dígitos
-Clasificación_de_Ropa
-Redes Neuronales Recurrentes (RNN) a) Accion_de_Amazon y Predecir_el_precio_de_Bitcoin: b) predicción_de_popularidad_de_una_canción
+Aquí se encuentra todo el material trabajado en clase, incluyendo notebooks con:
 
-3. Exposición
- Contiene:
-Código utilizado
-Notas de apoyo
+💻 Código completo
 
-4. Tareas
-Repositorios de todas las tareas entregadas durante el curso:
+🧩 Explicación línea por línea
 
-Códigos con explicación del profesor
-Desarrollo
-Implementaciones en Google Colab
+📝 Notas clave para comprender cada modelo
 
-5.Tecnologías utilizadas
-Google Colab
-Librerías: NumPy, Pandas, Matplotlib etc.
+Temas incluidos:
+
+🔵 Redes Neuronales
+
+🟣 Perceptrón Multicapa (MLP)
+
+🟡 Perceptrón OR y NOT
+
+🧠 Red Neuronal Multicapa XOR
+
+🌸 Clasificación Flor Iris
+
+📚 2. Explicaciones y análisis
+
+Archivos dedicados a explicar y analizar paso a paso:
+
+🧠 Conceptos fundamentales
+
+✏️ Ejercicios resueltos
+
+📒 Notas personales para estudio
+
+Temas principales:
+🌀 Redes Neuronales Convolucionales (CNN)
+
+👕 Clasificación de ropa (Fashion-MNIST)
+
+🔢 Clasificación de dígitos (MNIST)
+
+🔁 Redes Neuronales Recurrentes (RNN)
+
+📉 Predicción del precio de Amazon
+
+💰 Predicción de Bitcoin
+
+🎵 Predicción de popularidad de canciones
+
+🎤 3. Exposición
+
+Carpeta dedicada al material usado durante mi exposición:
+
+💻 Código utilizado
+
+📝 Notas de apoyo
+
+📑 Explicación estructurada para presentar
+
+🧪 4. Tareas
+
+Incluye todas las tareas entregadas a lo largo del curso, cada una con:
+
+🧰 Código proporcionado por el profesor
+
+✍️ Mi desarrollo y resoluciones
+
+🔗 Implementaciones en Google Colab
+
+📘 Explicaciones y documentación propia
+
+🛠️ 5. Tecnologías utilizadas
+
+☁️ Google Colab
+
+📦 Librerías principales:
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+Scikit-learn
+
+TensorFlow / Keras
 
 🎯 Objetivo del repositorio
-tener un buen manejo de cada progreso de lo que fui aprendiendo en la materia de INTELIGENCIA ARTIFICIAL ya que sera util para mi beneficio personal para tener todo organizado y con estilo. 
+
+Organizar, documentar y comprender a profundidad todo lo aprendido en la materia de Inteligencia Artificial, manteniendo un estilo claro, visual y accesible para mi propio crecimiento académico y profesional.
